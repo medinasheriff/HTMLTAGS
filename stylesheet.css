@@ -1,4 +1,4 @@
-<style>
+
 .grid {display:inline-block;}
 body { background-color:rgb(140, 127, 255); margin: 40px;}
 #main {background-color: white; width: 80%;
@@ -6,4 +6,3 @@ body { background-color:rgb(140, 127, 255); margin: 40px;}
   font-family: 'cursive', Helvetica;}
 .top {display:inline-block;}
 ul {float:right;}
-</style>
